@@ -1,1 +1,2 @@
-# ahkscript
+- Transparent 90% (Explorer, Spotify) 
+- Hide "Show Desktop Button"
